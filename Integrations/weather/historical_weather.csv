@@ -1,0 +1,285 @@
+,0
+0,"          Address  Date time  Minimum Temperature  ...                          Name  Info              Conditions
+0   Paris, France 2022-01-07                  4.2  ...  Paris, Île-de-France, France                          Rain
+1   Paris, France 2022-01-08                  3.8  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+2   Paris, France 2022-01-08                  7.9  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+3   Paris, France 2022-01-09                  4.6  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+4   Paris, France 2022-01-09                  4.6  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+5   Paris, France 2022-01-10                  2.6  ...  Paris, Île-de-France, France                         Clear
+6   Paris, France 2022-01-10                  3.7  ...  Paris, Île-de-France, France                         Clear
+7   Paris, France 2022-01-11                  0.7  ...  Paris, Île-de-France, France                         Clear
+8   Paris, France 2022-01-11                  1.4  ...  Paris, Île-de-France, France                         Clear
+9   Paris, France 2022-01-12                 -0.1  ...  Paris, Île-de-France, France                         Clear
+10  Paris, France 2022-01-13                  2.1  ...  Paris, Île-de-France, France                         Clear
+11  Paris, France 2022-01-13                  2.9  ...  Paris, Île-de-France, France                         Clear
+12  Paris, France 2022-01-14                  1.1  ...  Paris, Île-de-France, France                         Clear
+13  Paris, France 2022-01-14                  2.2  ...  Paris, Île-de-France, France                         Clear
+14  Paris, France 2022-01-15                 -0.1  ...  Paris, Île-de-France, France                          Rain
+15  Paris, France 2022-01-15                  5.9  ...  Paris, Île-de-France, France                         Clear
+16  Paris, France 2022-01-16                 -0.3  ...  Paris, Île-de-France, France                         Clear
+17  Paris, France 2022-01-16                  2.4  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+18  Paris, France 2022-01-17                  4.7  ...  Paris, Île-de-France, France                         Clear
+19  Paris, France 2022-01-18                  2.2  ...  Paris, Île-de-France, France                         Clear
+20  Paris, France 2022-01-18                  8.1  ...  Paris, Île-de-France, France                         Clear
+21  Paris, France 2022-01-19                  5.0  ...  Paris, Île-de-France, France                         Clear
+22  Paris, France 2022-01-19                  5.4  ...  Paris, Île-de-France, France                         Clear
+23  Paris, France 2022-01-20                  3.6  ...  Paris, Île-de-France, France                          Rain
+24  Paris, France 2022-01-20                  5.2  ...  Paris, Île-de-France, France              Partially cloudy
+25  Paris, France 2022-01-21                  2.9  ...  Paris, Île-de-France, France              Partially cloudy
+26  Paris, France 2022-01-21                  4.5  ...  Paris, Île-de-France, France                         Clear
+27  Paris, France 2022-01-22                  4.9  ...  Paris, Île-de-France, France              Partially cloudy
+28  Paris, France 2022-01-23                  3.5  ...  Paris, Île-de-France, France              Partially cloudy
+29  Paris, France 2022-01-23                  4.0  ...  Paris, Île-de-France, France              Partially cloudy
+30  Paris, France 2022-01-24                  0.2  ...  Paris, Île-de-France, France                         Clear
+31  Paris, France 2022-01-24                  1.9  ...  Paris, Île-de-France, France                         Clear
+32  Paris, France 2022-01-25                 -0.5  ...  Paris, Île-de-France, France                         Clear
+33  Paris, France 2022-01-25                  1.5  ...  Paris, Île-de-France, France                         Clear
+34  Paris, France 2022-01-26                  1.3  ...  Paris, Île-de-France, France              Partially cloudy
+35  Paris, France 2022-01-26                  2.6  ...  Paris, Île-de-France, France              Partially cloudy
+36  Paris, France 2022-01-27                  2.7  ...  Paris, Île-de-France, France              Partially cloudy
+37  Paris, France 2022-01-28                  6.2  ...  Paris, Île-de-France, France              Partially cloudy
+38  Paris, France 2022-01-28                  7.3  ...  Paris, Île-de-France, France              Partially cloudy
+39  Paris, France 2022-01-29                  7.4  ...  Paris, Île-de-France, France              Partially cloudy
+40  Paris, France 2022-01-29                  8.6  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+41  Paris, France 2022-01-30                  6.6  ...  Paris, Île-de-France, France                         Clear
+42  Paris, France 2022-01-30                  9.0  ...  Paris, Île-de-France, France                         Clear
+43  Paris, France 2022-01-31                  7.4  ...  Paris, Île-de-France, France                          Rain
+44  Paris, France 2022-01-31                  7.2  ...  Paris, Île-de-France, France                          Rain
+45  Paris, France 2022-02-01                  4.8  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+46  Paris, France 2022-02-02                  9.9  ...  Paris, Île-de-France, France              Partially cloudy
+47  Paris, France 2022-02-02                 10.2  ...  Paris, Île-de-France, France              Partially cloudy
+48  Paris, France 2022-02-03                  7.0  ...  Paris, Île-de-France, France              Partially cloudy
+49  Paris, France 2022-02-03                  7.0  ...  Paris, Île-de-France, France              Partially cloudy
+50  Paris, France 2022-02-04                  7.0  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+51  Paris, France 2022-02-04                  7.5  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+52  Paris, France 2022-02-05                  1.6  ...  Paris, Île-de-France, France                         Clear
+53  Paris, France 2022-02-05                  7.9  ...  Paris, Île-de-France, France                         Clear
+54  Paris, France 2022-02-06                  7.7  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+
+[55 rows x 25 columns]"
+1,"          Address  Date time  Minimum Temperature  ...                          Name  Info              Conditions
+0   Paris, France 2022-02-07                  5.3  ...  Paris, Île-de-France, France                         Clear
+1   Paris, France 2022-02-08                  7.5  ...  Paris, Île-de-France, France              Partially cloudy
+2   Paris, France 2022-02-08                 10.8  ...  Paris, Île-de-France, France              Partially cloudy
+3   Paris, France 2022-02-09                  2.7  ...  Paris, Île-de-France, France                         Clear
+4   Paris, France 2022-02-09                  4.9  ...  Paris, Île-de-France, France                         Clear
+5   Paris, France 2022-02-10                  6.2  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+6   Paris, France 2022-02-10                  9.6  ...  Paris, Île-de-France, France              Partially cloudy
+7   Paris, France 2022-02-11                  2.5  ...  Paris, Île-de-France, France                         Clear
+8   Paris, France 2022-02-11                  7.0  ...  Paris, Île-de-France, France                         Clear
+9   Paris, France 2022-02-12                  0.3  ...  Paris, Île-de-France, France                         Clear
+10  Paris, France 2022-02-13                  0.1  ...  Paris, Île-de-France, France                         Clear
+11  Paris, France 2022-02-13                 12.0  ...  Paris, Île-de-France, France                         Clear
+12  Paris, France 2022-02-14                  7.5  ...  Paris, Île-de-France, France                          Rain
+13  Paris, France 2022-02-14                  8.6  ...  Paris, Île-de-France, France                          Rain
+14  Paris, France 2022-02-15                  4.6  ...  Paris, Île-de-France, France                          Rain
+15  Paris, France 2022-02-15                  9.4  ...  Paris, Île-de-France, France              Partially cloudy
+16  Paris, France 2022-02-16                 11.3  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+17  Paris, France 2022-02-16                 13.6  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+18  Paris, France 2022-02-17                 10.9  ...  Paris, Île-de-France, France                         Clear
+19  Paris, France 2022-02-18                 11.7  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+20  Paris, France 2022-02-18                 10.5  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+21  Paris, France 2022-02-19                  3.2  ...  Paris, Île-de-France, France                         Clear
+22  Paris, France 2022-02-19                  5.1  ...  Paris, Île-de-France, France                         Clear
+23  Paris, France 2022-02-20                  9.0  ...  Paris, Île-de-France, France              Partially cloudy
+24  Paris, France 2022-02-20                 12.7  ...  Paris, Île-de-France, France              Partially cloudy
+25  Paris, France 2022-02-21                  5.9  ...  Paris, Île-de-France, France                         Clear
+26  Paris, France 2022-02-21                  9.1  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+27  Paris, France 2022-02-22                  6.1  ...  Paris, Île-de-France, France              Partially cloudy
+28  Paris, France 2022-02-23                  5.1  ...  Paris, Île-de-France, France                         Clear
+29  Paris, France 2022-02-23                 11.1  ...  Paris, Île-de-France, France              Partially cloudy
+30  Paris, France 2022-02-24                  7.3  ...  Paris, Île-de-France, France              Partially cloudy
+31  Paris, France 2022-02-24                  7.0  ...  Paris, Île-de-France, France                          Rain
+32  Paris, France 2022-02-25                  3.5  ...  Paris, Île-de-France, France                          Rain
+33  Paris, France 2022-02-25                 10.0  ...  Paris, Île-de-France, France                         Clear
+34  Paris, France 2022-02-26                  2.1  ...  Paris, Île-de-France, France                         Clear
+35  Paris, France 2022-02-26                  7.8  ...  Paris, Île-de-France, France                         Clear
+36  Paris, France 2022-02-27                  0.9  ...  Paris, Île-de-France, France                         Clear
+37  Paris, France 2022-02-28                  0.4  ...  Paris, Île-de-France, France                         Clear
+38  Paris, France 2022-02-28                 11.0  ...  Paris, Île-de-France, France                         Clear
+39  Paris, France 2022-03-01                  4.3  ...  Paris, Île-de-France, France              Partially cloudy
+40  Paris, France 2022-03-01                  6.7  ...  Paris, Île-de-France, France              Partially cloudy
+41  Paris, France 2022-03-02                  6.2  ...  Paris, Île-de-France, France                         Clear
+42  Paris, France 2022-03-02                 12.1  ...  Paris, Île-de-France, France                         Clear
+43  Paris, France 2022-03-03                  8.5  ...  Paris, Île-de-France, France              Partially cloudy
+44  Paris, France 2022-03-03                 11.1  ...  Paris, Île-de-France, France              Partially cloudy
+45  Paris, France 2022-03-04                  9.0  ...  Paris, Île-de-France, France              Partially cloudy
+46  Paris, France 2022-03-05                  6.6  ...  Paris, Île-de-France, France                         Clear
+47  Paris, France 2022-03-05                 10.9  ...  Paris, Île-de-France, France                         Clear
+48  Paris, France 2022-03-06                  1.8  ...  Paris, Île-de-France, France                          Rain
+
+[49 rows x 25 columns]"
+2,"          Address  Date time  Minimum Temperature  ...                          Name  Info              Conditions
+0   Paris, France 2022-03-07                 -0.1  ...  Paris, Île-de-France, France                         Clear
+1   Paris, France 2022-03-08                  0.3  ...  Paris, Île-de-France, France                         Clear
+2   Paris, France 2022-03-08                 11.9  ...  Paris, Île-de-France, France                         Clear
+3   Paris, France 2022-03-09                  3.9  ...  Paris, Île-de-France, France                         Clear
+4   Paris, France 2022-03-09                  7.0  ...  Paris, Île-de-France, France                         Clear
+5   Paris, France 2022-03-10                  5.5  ...  Paris, Île-de-France, France                         Clear
+6   Paris, France 2022-03-10                 15.8  ...  Paris, Île-de-France, France                         Clear
+7   Paris, France 2022-03-11                  7.8  ...  Paris, Île-de-France, France                         Clear
+8   Paris, France 2022-03-11                 10.4  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+9   Paris, France 2022-03-12                  6.3  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+10  Paris, France 2022-03-13                  8.1  ...  Paris, Île-de-France, France                          Rain
+11  Paris, France 2022-03-13                  9.3  ...  Paris, Île-de-France, France                          Rain
+12  Paris, France 2022-03-14                  4.8  ...  Paris, Île-de-France, France                         Clear
+13  Paris, France 2022-03-14                  7.8  ...  Paris, Île-de-France, France                         Clear
+14  Paris, France 2022-03-15                  9.3  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+15  Paris, France 2022-03-15                 11.1  ...  Paris, Île-de-France, France                         Clear
+16  Paris, France 2022-03-16                  8.8  ...  Paris, Île-de-France, France                         Clear
+17  Paris, France 2022-03-16                 11.2  ...  Paris, Île-de-France, France                         Clear
+18  Paris, France 2022-03-17                  7.9  ...  Paris, Île-de-France, France                         Clear
+19  Paris, France 2022-03-18                  4.5  ...  Paris, Île-de-France, France                         Clear
+20  Paris, France 2022-03-18                 14.8  ...  Paris, Île-de-France, France                         Clear
+21  Paris, France 2022-03-19                  6.3  ...  Paris, Île-de-France, France                         Clear
+22  Paris, France 2022-03-19                  9.9  ...  Paris, Île-de-France, France                         Clear
+23  Paris, France 2022-03-20                  4.0  ...  Paris, Île-de-France, France                         Clear
+24  Paris, France 2022-03-20                 12.4  ...  Paris, Île-de-France, France                         Clear
+25  Paris, France 2022-03-21                  7.5  ...  Paris, Île-de-France, France                         Clear
+26  Paris, France 2022-03-21                 15.8  ...  Paris, Île-de-France, France                         Clear
+27  Paris, France 2022-03-22                  8.3  ...  Paris, Île-de-France, France                         Clear
+28  Paris, France 2022-03-23                  6.9  ...  Paris, Île-de-France, France                         Clear
+29  Paris, France 2022-03-23                 18.1  ...  Paris, Île-de-France, France                         Clear
+30  Paris, France 2022-03-24                  8.6  ...  Paris, Île-de-France, France                         Clear
+31  Paris, France 2022-03-24                 14.1  ...  Paris, Île-de-France, France                         Clear
+32  Paris, France 2022-03-25                  9.2  ...  Paris, Île-de-France, France                         Clear
+33  Paris, France 2022-03-25                 18.9  ...  Paris, Île-de-France, France                         Clear
+34  Paris, France 2022-03-26                  8.6  ...  Paris, Île-de-France, France                         Clear
+35  Paris, France 2022-03-26                 17.5  ...  Paris, Île-de-France, France                         Clear
+36  Paris, France 2022-03-26                  8.9  ...  Paris, Île-de-France, France                         Clear
+37  Paris, France 2022-03-27                  9.7  ...  Paris, Île-de-France, France                         Clear
+38  Paris, France 2022-03-28                  8.9  ...  Paris, Île-de-France, France                         Clear
+39  Paris, France 2022-03-28                 21.2  ...  Paris, Île-de-France, France                         Clear
+40  Paris, France 2022-03-29                 12.5  ...  Paris, Île-de-France, France              Partially cloudy
+41  Paris, France 2022-03-29                 13.9  ...  Paris, Île-de-France, France                          Rain
+42  Paris, France 2022-03-30                 10.2  ...  Paris, Île-de-France, France                          Rain
+43  Paris, France 2022-03-30                 12.9  ...  Paris, Île-de-France, France                         Clear
+44  Paris, France 2022-03-31                  3.5  ...  Paris, Île-de-France, France                          Rain
+45  Paris, France 2022-03-31                  4.5  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+46  Paris, France 2022-03-31                  2.0  ...  Paris, Île-de-France, France              Partially cloudy
+47  Paris, France 2022-04-01                  1.2  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+48  Paris, France 2022-04-02                  1.3  ...  Paris, Île-de-France, France                         Clear
+49  Paris, France 2022-04-02                  6.9  ...  Paris, Île-de-France, France              Partially cloudy
+50  Paris, France 2022-04-03                  1.3  ...  Paris, Île-de-France, France                         Clear
+51  Paris, France 2022-04-03                  5.5  ...  Paris, Île-de-France, France                         Clear
+52  Paris, France 2022-04-04                  1.5  ...  Paris, Île-de-France, France                         Clear
+53  Paris, France 2022-04-04                  9.2  ...  Paris, Île-de-France, France              Partially cloudy
+54  Paris, France 2022-04-05                  8.0  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+55  Paris, France 2022-04-05                 10.5  ...  Paris, Île-de-France, France              Partially cloudy
+56  Paris, France 2022-04-05                  8.2  ...  Paris, Île-de-France, France              Partially cloudy
+
+[57 rows x 25 columns]"
+3,"          Address  Date time  Minimum Temperature  ...                          Name  Info              Conditions
+0   Paris, France 2022-04-07                 11.7  ...  Paris, Île-de-France, France                          Rain
+1   Paris, France 2022-04-08                  5.9  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+2   Paris, France 2022-04-08                  5.1  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+3   Paris, France 2022-04-09                  3.4  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+4   Paris, France 2022-04-09                  5.1  ...  Paris, Île-de-France, France                          Rain
+5   Paris, France 2022-04-10                  1.9  ...  Paris, Île-de-France, France                         Clear
+6   Paris, France 2022-04-10                 14.2  ...  Paris, Île-de-France, France                         Clear
+7   Paris, France 2022-04-11                  5.9  ...  Paris, Île-de-France, France                         Clear
+8   Paris, France 2022-04-11                 14.0  ...  Paris, Île-de-France, France                         Clear
+9   Paris, France 2022-04-12                 11.0  ...  Paris, Île-de-France, France                         Clear
+10  Paris, France 2022-04-13                 12.6  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+11  Paris, France 2022-04-13                 13.9  ...  Paris, Île-de-France, France              Partially cloudy
+12  Paris, France 2022-04-14                 10.9  ...  Paris, Île-de-France, France                         Clear
+13  Paris, France 2022-04-14                 13.8  ...  Paris, Île-de-France, France                         Clear
+14  Paris, France 2022-04-15                 11.2  ...  Paris, Île-de-France, France                         Clear
+15  Paris, France 2022-04-15                 20.7  ...  Paris, Île-de-France, France                         Clear
+16  Paris, France 2022-04-16                 10.3  ...  Paris, Île-de-France, France                         Clear
+17  Paris, France 2022-04-16                 16.6  ...  Paris, Île-de-France, France                         Clear
+18  Paris, France 2022-04-17                  8.5  ...  Paris, Île-de-France, France                         Clear
+19  Paris, France 2022-04-18                  9.0  ...  Paris, Île-de-France, France                         Clear
+20  Paris, France 2022-04-18                 18.9  ...  Paris, Île-de-France, France                         Clear
+21  Paris, France 2022-04-19                  8.7  ...  Paris, Île-de-France, France                         Clear
+22  Paris, France 2022-04-19                 11.4  ...  Paris, Île-de-France, France                         Clear
+23  Paris, France 2022-04-20                  8.9  ...  Paris, Île-de-France, France                         Clear
+24  Paris, France 2022-04-20                 18.9  ...  Paris, Île-de-France, France                         Clear
+25  Paris, France 2022-04-21                 10.2  ...  Paris, Île-de-France, France                         Clear
+26  Paris, France 2022-04-21                 16.5  ...  Paris, Île-de-France, France                         Clear
+27  Paris, France 2022-04-22                 10.5  ...  Paris, Île-de-France, France                         Clear
+28  Paris, France 2022-04-23                 10.9  ...  Paris, Île-de-France, France                         Clear
+29  Paris, France 2022-04-23                 17.3  ...  Paris, Île-de-France, France                         Clear
+30  Paris, France 2022-04-24                 11.2  ...  Paris, Île-de-France, France                         Clear
+31  Paris, France 2022-04-24                 14.3  ...  Paris, Île-de-France, France                         Clear
+32  Paris, France 2022-04-25                  9.4  ...  Paris, Île-de-France, France                         Clear
+33  Paris, France 2022-04-25                 15.6  ...  Paris, Île-de-France, France                         Clear
+34  Paris, France 2022-04-26                  8.4  ...  Paris, Île-de-France, France                         Clear
+35  Paris, France 2022-04-26                 11.6  ...  Paris, Île-de-France, France              Partially cloudy
+36  Paris, France 2022-04-27                  6.8  ...  Paris, Île-de-France, France                         Clear
+37  Paris, France 2022-04-28                  9.1  ...  Paris, Île-de-France, France                         Clear
+38  Paris, France 2022-04-28                 19.9  ...  Paris, Île-de-France, France                         Clear
+39  Paris, France 2022-04-29                 11.5  ...  Paris, Île-de-France, France              Partially cloudy
+40  Paris, France 2022-04-29                 12.2  ...  Paris, Île-de-France, France                         Clear
+41  Paris, France 2022-04-30                  8.3  ...  Paris, Île-de-France, France                         Clear
+42  Paris, France 2022-04-30                 16.6  ...  Paris, Île-de-France, France                         Clear
+43  Paris, France 2022-05-01                  7.5  ...  Paris, Île-de-France, France                         Clear
+44  Paris, France 2022-05-01                 14.4  ...  Paris, Île-de-France, France                         Clear
+45  Paris, France 2022-05-02                 10.1  ...  Paris, Île-de-France, France                         Clear
+46  Paris, France 2022-05-03                 10.2  ...  Paris, Île-de-France, France                         Clear
+47  Paris, France 2022-05-03                 18.9  ...  Paris, Île-de-France, France                         Clear
+48  Paris, France 2022-05-04                 10.2  ...  Paris, Île-de-France, France              Partially cloudy
+49  Paris, France 2022-05-04                 12.0  ...  Paris, Île-de-France, France                         Clear
+50  Paris, France 2022-05-05                 10.9  ...  Paris, Île-de-France, France              Partially cloudy
+51  Paris, France 2022-05-05                 17.7  ...  Paris, Île-de-France, France                         Clear
+52  Paris, France 2022-05-06                 10.9  ...  Paris, Île-de-France, France                         Clear
+
+[53 rows x 25 columns]"
+4,"          Address  Date time  Minimum Temperature  ...                          Name  Info              Conditions
+0   Paris, France 2022-05-07                 11.9  ...  Paris, Île-de-France, France                         Clear
+1   Paris, France 2022-05-08                 12.0  ...  Paris, Île-de-France, France              Partially cloudy
+2   Paris, France 2022-05-08                 19.1  ...  Paris, Île-de-France, France                         Clear
+3   Paris, France 2022-05-09                 12.4  ...  Paris, Île-de-France, France                         Clear
+4   Paris, France 2022-05-09                 17.4  ...  Paris, Île-de-France, France                         Clear
+5   Paris, France 2022-05-10                 16.3  ...  Paris, Île-de-France, France                         Clear
+6   Paris, France 2022-05-10                 27.3  ...  Paris, Île-de-France, France                         Clear
+7   Paris, France 2022-05-11                 15.6  ...  Paris, Île-de-France, France                         Clear
+8   Paris, France 2022-05-11                 22.6  ...  Paris, Île-de-France, France                         Clear
+9   Paris, France 2022-05-12                 13.0  ...  Paris, Île-de-France, France                         Clear
+10  Paris, France 2022-05-13                 12.0  ...  Paris, Île-de-France, France                         Clear
+11  Paris, France 2022-05-13                 19.4  ...  Paris, Île-de-France, France                         Clear
+12  Paris, France 2022-05-14                 13.2  ...  Paris, Île-de-France, France                         Clear
+13  Paris, France 2022-05-14                 18.6  ...  Paris, Île-de-France, France                         Clear
+14  Paris, France 2022-05-15                 15.8  ...  Paris, Île-de-France, France                         Clear
+15  Paris, France 2022-05-15                 28.2  ...  Paris, Île-de-France, France                         Clear
+16  Paris, France 2022-05-16                 17.1  ...  Paris, Île-de-France, France                         Clear
+17  Paris, France 2022-05-16                 19.6  ...  Paris, Île-de-France, France                         Clear
+18  Paris, France 2022-05-17                 17.7  ...  Paris, Île-de-France, France                         Clear
+19  Paris, France 2022-05-18                 17.7  ...  Paris, Île-de-France, France                         Clear
+20  Paris, France 2022-05-18                 27.3  ...  Paris, Île-de-France, France                         Clear
+21  Paris, France 2022-05-19                 21.1  ...  Paris, Île-de-France, France                         Clear
+22  Paris, France 2022-05-19                 21.7  ...  Paris, Île-de-France, France                         Clear
+23  Paris, France 2022-05-20                 16.5  ...  Paris, Île-de-France, France                          Rain
+24  Paris, France 2022-05-20                 18.2  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+25  Paris, France 2022-05-21                 13.9  ...  Paris, Île-de-France, France                         Clear
+26  Paris, France 2022-05-21                 19.7  ...  Paris, Île-de-France, France                         Clear
+27  Paris, France 2022-05-22                 16.7  ...  Paris, Île-de-France, France                         Clear
+28  Paris, France 2022-05-23                 16.6  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+29  Paris, France 2022-05-23                 15.8  ...  Paris, Île-de-France, France        Rain, Partially cloudy
+30  Paris, France 2022-05-24                 11.8  ...  Paris, Île-de-France, France                          Rain
+31  Paris, France 2022-05-24                 13.7  ...  Paris, Île-de-France, France                          Rain
+32  Paris, France 2022-05-25                 12.5  ...  Paris, Île-de-France, France                         Clear
+33  Paris, France 2022-05-25                 19.5  ...  Paris, Île-de-France, France                         Clear
+34  Paris, France 2022-05-26                 14.1  ...  Paris, Île-de-France, France              Partially cloudy
+35  Paris, France 2022-05-26                 16.5  ...  Paris, Île-de-France, France                         Clear
+36  Paris, France 2022-05-27                 13.5  ...  Paris, Île-de-France, France                         Clear
+37  Paris, France 2022-05-28                 12.4  ...  Paris, Île-de-France, France                         Clear
+38  Paris, France 2022-05-28                 19.3  ...  Paris, Île-de-France, France                         Clear
+39  Paris, France 2022-05-29                  9.9  ...  Paris, Île-de-France, France                         Clear
+40  Paris, France 2022-05-29                 12.1  ...  Paris, Île-de-France, France                         Clear
+41  Paris, France 2022-05-30                 10.1  ...  Paris, Île-de-France, France                         Clear
+42  Paris, France 2022-05-30                 17.9  ...  Paris, Île-de-France, France                         Clear
+43  Paris, France 2022-05-31                 13.9  ...  Paris, Île-de-France, France                         Clear
+44  Paris, France 2022-05-31                 19.1  ...  Paris, Île-de-France, France                         Clear
+45  Paris, France 2022-06-01                 13.4  ...  Paris, Île-de-France, France                         Clear
+46  Paris, France 2022-06-02                 13.5  ...  Paris, Île-de-France, France                         Clear
+47  Paris, France 2022-06-02                 22.9  ...  Paris, Île-de-France, France                         Clear
+48  Paris, France 2022-06-03                 16.8  ...  Paris, Île-de-France, France                         Clear
+49  Paris, France 2022-06-03                 19.2  ...  Paris, Île-de-France, France                          Rain
+50  Paris, France 2022-06-04                 17.1  ...  Paris, Île-de-France, France                          Rain
+51  Paris, France 2022-06-04                 24.9  ...  Paris, Île-de-France, France              Partially cloudy
+52  Paris, France 2022-06-05                 17.6  ...  Paris, Île-de-France, France                          Rain
+53  Paris, France 2022-06-05                 19.1  ...  Paris, Île-de-France, France                         Clear
+54  Paris, France 2022-06-06                 14.5  ...  Paris, Île-de-France, France                         Clear
+
+[55 rows x 25 columns]"
